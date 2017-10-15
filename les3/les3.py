@@ -40,7 +40,7 @@ i = 1
 while i:
 	if i == 10:
 		break #прервать цикл
-	elif i == 0
+	elif i == 0:
 		continue #пропустить цикл
 	i += 1
 
